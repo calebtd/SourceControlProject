@@ -1,0 +1,64 @@
+commit 77385ba5025c1defe9affc13a2db76246f988c27
+Merge: 7a4ff97 aabbe3f
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Fri Jan 12 10:10:25 2024 -0700
+
+    Merge branch 'develop'
+
+commit aabbe3f6c0aa9be62e7fab2d96d1ca353622c1f0
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Fri Jan 12 10:07:36 2024 -0700
+
+    Added navbar active color
+
+commit 7a4ff979e4120804f78a15181b260cc46e6e6dc3
+Merge: adc2ce1 4423805
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Fri Jan 12 09:57:00 2024 -0700
+
+    Merge branch 'feature/demo'
+
+commit 4423805ec3158902e5e59e7c771578f0926f8847
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Fri Jan 12 09:54:56 2024 -0700
+
+    Added NavBar
+
+commit adc2ce159dc98d377773869b7e2e95e7de33614c
+Merge: 407306e 82753f3
+Author: calebtd <42586093+calebtd@users.noreply.github.com>
+Date:   Fri Jan 12 09:40:43 2024 -0700
+
+    Merge pull request #1 from calebtd/develop
+    
+    Added image
+
+commit 82753f39dca30b3b1853582e76dc29dbcc41a88f
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Fri Jan 12 09:39:27 2024 -0700
+
+    Added image
+
+commit 407306e57d3081de3a9e40d11a043949093bdefe
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Fri Jan 12 09:06:15 2024 -0700
+
+    Added CSS Files
+
+commit 5248935022677bb3f29d06f7ac9bee7f39654583
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Fri Jan 12 08:56:53 2024 -0700
+
+    add index.html
+
+commit a0f9e9fd5fff3553a6a5c3c04c3ec013e49ab821
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Fri Jan 12 08:27:08 2024 -0700
+
+    Updated gitignore
+
+commit 807d9cf630dbb0fa4ea0b8999f491afa71e7f167
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Fri Jan 12 08:20:28 2024 -0700
+
+    New repo, added README and gitignore
